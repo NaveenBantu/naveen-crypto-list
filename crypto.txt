@@ -1,5 +1,5 @@
 1. Bitcoin
 2. Ethereum
-3. Tether
-4. BNB
-5. USD Coin
+3. BNB
+4. Terra
+5. Solana

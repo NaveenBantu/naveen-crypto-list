@@ -1,0 +1,10 @@
+1. Bitcoin
+2. Ethereum
+3. Tether
+4. BNB
+5. USD Coin
+6. Solana
+7. Terra
+8. XRP
+9. Cardano
+10. Avalanche

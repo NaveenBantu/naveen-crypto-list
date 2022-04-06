@@ -1,0 +1,5 @@
+1. Terra
+2. Avalanche
+3. Wrapped Bitcoin
+4. Dai
+5. Chainlink

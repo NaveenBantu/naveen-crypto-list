@@ -3,3 +3,8 @@
 3. Binance USD
 4. TerraUSD
 5. Dai
+6. MIM
+7. Frax
+8. TrueUSD
+9. Neutrino USD
+10. Pax dollar
